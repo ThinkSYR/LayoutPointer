@@ -12,6 +12,11 @@ ZIP: [Google Drive](https://drive.google.com/drive/folders/1IXe0QOEUh_XgbdQspBPK
 
 LayoutPointer: go to layoutlmft/models/gplayoutlmv3
 
+# Training 
+
+The training code is largely based on the public official [layoutlmv3](https://github.com/microsoft/unilm) repo with some project-specific modifications.
+I’ll consider releasing it once it’s better organized.
+
 # Thanks
 
 [https://github.com/microsoft/unilm/tree/master/layoutlmv3](https://github.com/microsoft/unilm)
